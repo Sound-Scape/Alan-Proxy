@@ -1,0 +1,24 @@
+{
+  "name": "alan-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for FEC",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoundCloud-Front-End-Capstone/Alan-Proxy.git"
+  },
+  "author": "Alan Fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoundCloud-Front-End-Capstone/Alan-Proxy/issues"
+  },
+  "homepage": "https://github.com/SoundCloud-Front-End-Capstone/Alan-Proxy#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+  }
+}
