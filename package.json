@@ -19,6 +19,6 @@
   "homepage": "https://github.com/SoundCloud-Front-End-Capstone/Alan-Proxy#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "nodemon": "^1.18.4",
+    "nodemon": "^1.18.4"
   }
 }
