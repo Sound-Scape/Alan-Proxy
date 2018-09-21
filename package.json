@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SoundCloud-Front-End-Capstone/Alan-Proxy#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "express": "^4.16.3",
     "nodemon": "^1.18.4"
   }
