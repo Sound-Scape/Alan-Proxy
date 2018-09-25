@@ -1,3 +1,5 @@
-#Wrapper {
-  background-color: #F2F2F2;
+#relatedWrapper {
+  position: absolute;
+  top: 360;
+  right: 45;
 }
